@@ -11,3 +11,13 @@ Program ini dibuat untuk mengelola dan mengolah data nilai (Tugas, UTS, UAS) mah
 2. Perulangan: for untuk iterasi data.
 3. Matriks: 3 kolom per mahasiswa.
 4. Fungsi Rekursif: Untuk total nilai, hasil ditampilkan di layar.
+# Screenshot Program
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20143803.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20143810.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20143817.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20143823.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20143956.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20144003.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20144045.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20144051.png?raw=true)
+![alt text](https://github.com/TylerDoan-maker/Pengolah-Data-Nilai-Mahasiswa/blob/main/Image/Screenshot%202026-01-11%20144105.png?raw=true)
